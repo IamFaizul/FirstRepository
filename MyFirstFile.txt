@@ -1,0 +1,5 @@
+# How to change the theme of jupyter notebook?
+
+from jupyterthemes import get_themes
+from jupyterthemes.stylefx import set_nb_theme
+set_nb_theme('grade3')
