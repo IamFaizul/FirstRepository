@@ -5,3 +5,5 @@ from jupyterthemes.stylefx import set_nb_theme
 set_nb_theme('grade3')
 
 By applying this theme you will see a smooth interface
+
+Not only smooth, you will also feel good to code.
